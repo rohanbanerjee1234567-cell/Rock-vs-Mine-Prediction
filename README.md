@@ -111,3 +111,5 @@ The project serves as a foundational machine learning implementation and provide
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Open the Jupyter Notebook
+4. Run all cells sequentially
